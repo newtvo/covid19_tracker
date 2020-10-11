@@ -1,3 +1,6 @@
+# COVID-19 TRACKER
+
+# Introduction
 This is a code repository for my covid-19 tracker.
 
 The purpose of this repo is to demonstrate my learning process in React and JavaScript in depth. 
@@ -7,7 +10,7 @@ Tools: React, Charts.JS and Material UI.
 
 API used: https://covid19.mathdro.id/api
 
-Setup:
+# Setup:
 
 - run npm i && npm start
 
